@@ -34,7 +34,7 @@
 #define THREAD_SLEEP_INTERVAL_USEC 500000
 
 /* Test topic to publish on */
-#define INTEGRATION_TEST_TOPIC "Tests/Integration/EmbeddedC"
+#define INTEGRATION_TEST_TOPIC "topic_1"
 
 /* Client ID to be used for single client tests */
 #define INTEGRATION_TEST_CLIENT_ID "EMB_C_SDK_INTEG_TESTER"
